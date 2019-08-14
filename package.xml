@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>DSL_Productlike</name>
+    <version>1.1.12</version>
+    <stability>stable</stability>
+    <license>GPL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Adds "Facebook Like button"  to your product description page and product image and description of that product is posted on users Facebook wall, where his friends can see that user likes that particular product on your store.</summary>
+    <description>Adds "Facebook Like button"  to your product description page. Product image and description of that product is posted on users Facebook wall, where his friends can see that user likes that particular product on your store.</description>
+    <notes>Magento product share on facebook</notes>
+    <authors><author><name>Daffodil Software</name><user>daffodilsw</user><email>ashish.mittal@daffodilsw.com</email></author></authors>
+    <date>2013-06-04</date>
+    <time>12:50:31</time>
+    <contents><target name="magecommunity"><dir name="DSL"><dir name="Productlike"><dir name="Helper"><file name="Data.php" hash="ef2138527c0cac1689412a5a05be7601"/></dir><dir name="Model"><file name="Layout.php" hash="d8a7778e3fe6e71ae5d613e687629a59"/></dir><dir name="etc"><file name="config.xml" hash="5c311d5c4ea0e859666594a4855d055c"/><file name="system.xml" hash="726c957166c08ec03efb369789461a20"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="DSL_Productlike.xml" hash="b9bd8c3b87bd3f2fdef5e1a11e97c367"/></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="layout"><file name="productlike.xml" hash="e9df3a4d26ee6fde9e217c191f947f7a"/></dir><dir name="template"><dir name="productlike"><file name="head.phtml" hash="c8d0ddde0378469e351699a308bb69f5"/><file name="productlike.phtml" hash="844377b052325aaf22f8f86d0a524952"/></dir></dir></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
