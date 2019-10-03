@@ -1,16 +1,5 @@
 {
-    "name": "OpenMageModuleFostering/DSL_Productlike",
-    "type": "magento-module",
-    "license": "GPL",
-    "homepage": "",
-    "description": "Adds "Facebook Like button"  to your product description page and product image and description of that product is posted on users Facebook wall, where his friends can see that user likes that particular product on your store.",
-    "authors": [
-    {
-        "name": "Daffodil Software",
-        "email": "ashish.mittal@daffodilsw.com"
-    }
-],
-    "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+    "keywords": [
+        "openmage-module"
+    ]
 }
